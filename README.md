@@ -4,6 +4,12 @@ by p-i-c-o
 ## Introduction
 This cyberdeck is a Raspberry Pi 3b (1GB Model) inside a plastic briefcase, it will have a 7 inch display and will have all of the necessary software for hacking, server management, and coding. This is all powered by a battery bank and will have an intricate interface with the ability to turn on the computer and the screen seperately.
 
+## Computer
+OS:         Kali Linux\
+RAM:        1GB\
+STORAGE:    32GB
+
+
 
 ## Parts
 | # | Item | Cost / Item (€) | Total Cost (€) |
