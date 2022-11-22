@@ -1,4 +1,4 @@
-# Cyberdeck
+# Wearable cyberdeck
 by p-i-c-o
 
 ## Computer
